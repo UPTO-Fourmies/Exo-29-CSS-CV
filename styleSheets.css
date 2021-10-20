@@ -1,0 +1,177 @@
+body
+{
+    background-color: lightslategrey;
+    padding: 100px 150px 150px 100px;
+}
+
+i
+{
+    color: grey;
+}
+
+img
+{
+    height: 120px;
+    width: auto;
+    position: relative;
+    border-radius: 75px;
+    left: 60px;
+    top: 50px;
+
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+#cv
+{
+    text-align: center;
+    font-size: 75px;
+    padding: 0;
+    color: white;
+    border: solid blue;
+    border-radius: 25px;
+    box-shadow: 8px 8px 2px 1px rgba(0, 0, 255);
+    position: relative;
+}
+
+#paper-cv
+{
+    border: 1px solid lightslategrey;
+    background-color: white;
+    height: 850px;
+    width: 1000px;
+}
+
+#personnal-infos
+{
+    background-color: forestgreen;
+    width: 250px;
+    height: 300px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    display: inline-block;
+}
+.prenom-nom
+{
+    padding-top: 175px;
+    text-align: center;
+    font-size: 50px;
+    font-family: Candara;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    bottom: 175px;
+}
+#contact
+{
+    text-align: center;
+    display: inline-block;
+    background-color: white;
+    width: 260px;
+    font-family: Candara;
+    font-size: 15px;
+    font-weight: bold;
+    position: absolute;
+    top: 640px;
+    left: 110px;
+}
+
+#diplomes
+{
+    background-color: #35B0DAFF;
+    width: 250px;
+    text-align: center;
+    padding-left: 10px;
+    position: absolute;
+    margin: 0;
+    display: inline-block;
+    left: 108px;
+    top: 820px;
+}
+
+#diplomes > h2
+{
+    font-weight: bold;
+    font-family: Candara;
+    background-color: darkblue;
+    color: white;
+    border: double forestgreen;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-radius: 25px;
+}
+
+#list-diplomes
+{
+    list-style: none;
+    text-align: left;
+    font-weight: bold;
+    font-size: 18px;
+    font-family: Candara;
+    width: 250px;
+}
+
+#hobbies
+{
+    margin-top: 0;
+    background-color: #35B0DAFF;
+    width: 250px;
+    text-align: left;
+    display: inline-block;
+    font-family: Candara;
+    font-size: 18px;
+    font-weight: bold;
+    padding-left: 10px;
+    position: absolute;
+    left: 108px;
+    top: 975px;
+}
+
+#hobbies > h2
+{
+    font-weight: bold;
+    background-color: darkblue;
+    color: white;
+    border: double forestgreen;
+    margin-right: 50px;
+    margin-left: 50px;
+    border-radius: 25px;
+    text-align: center;
+}
+
+.parcours
+{
+    position: relative;
+    font-size: 25px;
+    font-family: fantasy;
+    bottom: 425px;
+    left: 350px;
+}
+
+ul > h2
+{
+    background-color: blueviolet;
+    display: inline;
+}
+
+.competence
+{
+    text-decoration: none;
+    list-style: none;
+    font-size: 15px;
+    font-family: inherit;
+}
+
+.experience
+{
+    position: relative;
+    font-size: 25px;
+    font-family: fantasy;
+    bottom: 425px;
+    left: 350px;
+}
+
